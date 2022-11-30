@@ -1,9 +1,10 @@
 1.Open control panel and Run Apatche and MySQL.
-2.Copy the Assignments folder to xampp > htdocs.
-3.Open folder test1.
-4.create a database on phpmyadmin and name it assignment
-5.import the file users.sql in the database folder.
+2. Create a folder in xampp > htdocs and name it Test1
+3.Copy the code to Test1
+4.Open folder Test1.
+5.create a database on phpmyadmin and name it assignment
+6.import the file users.sql in the database folder.
 Instructions
-. Open chrome and paste : http://localhost/ASSIGNMENTS/Test2/
+. Open chrome and paste : http://localhost/Test1/
 . Click on view.php
 . you can start viewing the users, add, and delete
